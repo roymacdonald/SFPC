@@ -1,0 +1,30 @@
+<group>
+	<minSize>78.5829</minSize>
+	<maxSize>316.514</maxSize>
+	<color>120, 46, 46, 255</color>
+	<color2>0, 0, 49, 255</color2>
+	<index_mult>1.375</index_mult>
+	<lineWidth>2.3</lineWidth>
+<group/>
+<Layer_0>
+		<color_0>140, 0, 0, 255</color_0>
+		<minSize_0>44.5481</minSize_0>
+		<maxSize_0>300.7</maxSize_0>
+	</Layer_0>
+	<Layer_1>
+		<color_1>233, 251, 63, 166</color_1>
+		<minSize_1>6.68222</minSize_1>
+		<maxSize_1>302.927</maxSize_1>
+	</Layer_1>
+	<Layer_2>
+		<color_2>74, 0, 255, 166</color_2>
+		<minSize_2>1.1137</minSize_2>
+		<maxSize_2>294.017</maxSize_2>
+	</Layer_2>
+	<Layer_3>
+		<color_3>217, 0, 147, 213</color_3>
+		<minSize_3>0</minSize_3>
+		<maxSize_3>238.332</maxSize_3>
+	</Layer_3>
+	<Num_Iterations>37</Num_Iterations>
+</group>
